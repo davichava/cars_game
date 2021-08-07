@@ -16,7 +16,8 @@ dataBase = DataBase()
 
 
 def saludar():
-    print('Bienvenido\n\n')
+     print('Bienvenido al juego de carros  &copy; Created by David Chavarria\n\n')
+     print('comencemos a jugar!!!!\n\n')
 
 
 def crear_jugadores(numero_jugadores):
